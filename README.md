@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichauJ
-- 👀 I’m interested in psychology, cooking, data science, history and games.
+- 👀 I’m interested in data science, cooking, psychology, history and games (strategy, RPG, board games).
 - 🌱 I’m currently learning Python.
 
 
